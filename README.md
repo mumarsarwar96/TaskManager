@@ -131,8 +131,8 @@ Inside backend folder:
 
 Useful Links
 
-    This project
-        Github Repo: https://github.com/MUumarSarwar96/MERN-task-manager
+    This project[
+        Github Repo: (https://github.com/MUmarSarwar96/MERN-TaskManager.git)
 
     Official Docs
         Reactjs docs: https://reactjs.org/docs/getting-started.html
