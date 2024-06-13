@@ -6,20 +6,15 @@
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
-  "keywords": [
-    "Task manager",
-    "Tasks"
-  ],
-  "author": "Aayush",
+  "author": "",
   "license": "ISC",
-  "description": "The backend part of simple task manager with user authentication",
+  "description": "The backend part of task manager with authentication",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
-    "mern-task-manager": "file:..",
     "mongoose": "^6.2.3"
   },
   "devDependencies": {
